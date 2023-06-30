@@ -79,6 +79,7 @@
     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\OpenWebsiteButton.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\GunAim.cs" />
+    <Compile Include="Assets\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\GLES3.hlsl" />

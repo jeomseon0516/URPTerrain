@@ -1,4 +1,4 @@
-﻿#region Using statements
+#region Using statements
 
 using Bitgem.Core;
 using System.Collections;
@@ -15,9 +15,9 @@ namespace Bitgem.VFX.StylisedWater
     {
         #region Constants
 
-        public const int MAX_TILES_X = 100;
+        public const int MAX_TILES_X = 1000;
         public const int MAX_TILES_Y = 50;
-        public const int MAX_TILES_Z = 100;
+        public const int MAX_TILES_Z = 1000;
 
         #endregion
 
